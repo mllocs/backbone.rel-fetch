@@ -1,0 +1,17 @@
+{
+  "name": "backbone.rel-fetch"
+, "description": "Partially fetch using your backbone.rel relations"
+, "version": "0.0.1"
+, "author": "Maxim Colls <collsmaxim@gmail.com>"
+, "contributors": ["Pau Ramon <masylum@gmail.com>"]
+, "keywords": ["backbone", "relations", "teambox", "fetch"]
+, "repository": {"type": "git", "url": "git://github.com/mllocs/backbone.rel-fetch.git"}
+, "devDependencies": {
+    "backbone": "1.0.0"
+  , "backbone.partial-fetch": "0.0.3"
+  , "underscore": "*"
+  , "mocha": "*"
+  , "sinon": "*"
+  }
+, "main": "./backbone.rel-fetch.js"
+}
